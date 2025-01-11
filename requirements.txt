@@ -1,0 +1,11 @@
+#first run the below command 
+# conda create -p venv python==3.11 -y
+
+tensorflow==2.15.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
